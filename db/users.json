@@ -1,1 +1,23 @@
-{}
+{
+  "ahmed": {
+    "username": "ahmed",
+    "password": "Ah&20m$e0482$w",
+    "student_type": "علمي",
+    "telegram_user_id": "967536459",
+    "telegram_username": "MV_UT4",
+    "telegram_first_name": "Ahmed",
+    "profile_photo_url": null,
+    "session_id": "a6215af6-dd16-491c-9f53-4523e5235785",
+    "created_at": "2026-05-10T18:34:17.751875",
+    "verified": true,
+    "last_login": "2026-05-10T18:34:21.507531",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "math",
+      "english",
+      "it"
+    ],
+    "server_num": 27
+  }
+}
