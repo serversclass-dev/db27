@@ -1,1 +1,25 @@
-{}
+{
+  "ahmed__math": {
+    "username": "ahmed",
+    "subject_id": "math",
+    "messages": [
+      {
+        "role": "user",
+        "content": "اشرح لي الفصل الأول",
+        "timestamp": "2026-05-10T18:35:53.600829+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "اشرح لي الفصل الأول",
+        "timestamp": "2026-05-10T18:35:53.600829+00:00"
+      }
+    ],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "math",
+    "saved_at": "2026-05-10T18:35:47.260695"
+  }
+}
