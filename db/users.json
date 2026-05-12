@@ -19,5 +19,24 @@
       "it"
     ],
     "server_num": 27
+  },
+  "rahm17": {
+    "username": "rahm17",
+    "password": "rahm17Rr$",
+    "student_type": "علمي",
+    "telegram_user_id": "7965054530",
+    "telegram_username": null,
+    "telegram_first_name": "Rahma🦋",
+    "profile_photo_url": null,
+    "session_id": "cd89a95e-b619-480f-8d27-479ab8ab387c",
+    "created_at": "2026-05-12T16:38:42.124799",
+    "verified": true,
+    "last_login": "2026-05-12T16:45:47.687753",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "it"
+    ],
+    "server_num": 27
   }
 }
